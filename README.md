@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MkReuben&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MkReuben&theme=highcontrast&show_icons=true&count_private=true)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MkReuben"/>
