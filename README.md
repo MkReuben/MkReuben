@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![Github stats](https://github-readme-stats.vercel.app/api?username=MkReuben&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MkReuben)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MkReuben&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MkReuben&hide=javascript,html)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=MkReuben&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
